@@ -1,9 +1,68 @@
-x = 10
-nome = 'aluno'
-nota = 8.75
-fez_inscricao = True
-
-print(type(x))
-print(type(nome))
-print(type(nota))
-print(type(fez_inscricao))
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled0.ipynb",
+      "provenance": [],
+      "collapsed_sections": [],
+      "authorship_tag": "ABX9TyMSSj2xhuQhQgeztXcVnz4N",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/bottonlina/Software-Engineering---1-module/blob/main/subject%3A%20programming%20language\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 4,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "xlwCRNdKlgrK",
+        "outputId": "4ac8ed6e-ffd2-4a80-a8e2-70d5444d7450"
+      },
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "<class 'int'>\n",
+            "<class 'str'>\n",
+            "<class 'float'>\n",
+            "<class 'bool'>\n"
+          ]
+        }
+      ],
+      "source": [
+        "x = 10\n",
+        "nome = 'aluno'\n",
+        "nota = 8.75\n",
+        "fez_inscricao = True\n",
+        "\n",
+        "print(type(x))\n",
+        "print(type(nome))\n",
+        "print(type(nota))\n",
+        "print(type(fez_inscricao))\n",
+        "\n",
+        "\n"
+      ]
+    }
+  ]
+}
