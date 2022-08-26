@@ -1,5 +1,5 @@
 # Software-Engineering
-** Subject: programing languages **
+**Subject: programing languages**
 
-!(https://www.computerhope.com/jargon/s/software-engineering.jpg)
+![Study](https://www.computerhope.com/jargon/s/software-engineering.jpg)
 
