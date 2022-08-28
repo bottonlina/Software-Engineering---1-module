@@ -1,0 +1,26 @@
+# Testing Boolean
+
+A = False
+B = True
+
+print("Resultado de 'A and B':" , A and B)
+
+# retorna FALSE
+
+
+
+A = False
+B = True
+
+print("Resultado de 'A or B':" ,A or B)
+
+#retorna TRUE
+
+
+
+A = False
+B = True
+
+print("Resultado de 'A':", not A )
+
+# retorna FALSE
