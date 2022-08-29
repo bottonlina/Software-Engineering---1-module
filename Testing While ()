@@ -1,0 +1,60 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled14.ipynb",
+      "provenance": [],
+      "collapsed_sections": [],
+      "authorship_tag": "ABX9TyOa/Zymi4Ylzob5QzEGU0r2"
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "source": [
+        "#### Testing While ()"
+      ],
+      "metadata": {
+        "id": "g9nLiSok2Osh"
+      }
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 4,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "m1x_UeXu2M4k",
+        "outputId": "1741ac2a-1dd0-473c-fbea-642910cf863a"
+      },
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "0\n",
+            "2\n",
+            "4\n",
+            "6\n",
+            "8\n"
+          ]
+        }
+      ],
+      "source": [
+        "count = 0\n",
+        "while(count < 10):\n",
+        "   print(count)\n",
+        "   count = count + 2"
+      ]
+    }
+  ]
+}
