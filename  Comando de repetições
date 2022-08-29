@@ -1,0 +1,50 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled13.ipynb",
+      "provenance": [],
+      "collapsed_sections": [],
+      "authorship_tag": "ABX9TyPUZnveFd5851+y8szUe3J9"
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "source": [
+        "### Comando de repetições - Range ()"
+      ],
+      "metadata": {
+        "id": "pgGad4x2mzsw"
+      }
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "wHBjGmnfmy3e"
+      },
+      "outputs": [],
+      "source": [
+        "list (range(10)) #Gera uma sequência de 0 à 9.\n",
+        "[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]\n",
+        "list (range(1)11) #Gera uma sequência de 1 à 11.\n",
+        "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]\n",
+        "list (range(0,30,5)) #Gera uma sequência de 0 à 30 com step = 5.\n",
+        "[0, 5, 10, 15, 20, 25]\n",
+        "list (range(0,-10,-1)) #Gera uma sequência numérica negativa.\n",
+        "[0, -1, -2, -3, -4, -5, -6, -7, -8, -9]\n",
+        "list (range(0)) #Gera uma lista vazia.\n",
+        "[]"
+      ]
+    }
+  ]
+}
